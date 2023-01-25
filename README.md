@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @Cez02, a CompSci student at the University of Wrocław <br/>
 👨‍💻 Indie game dev and software developer <br/>
-🤖 Mainly interested in new game engine technologies and 3D graphics calculation, as well as combinatorial mathematics. My main speciality is OOP and development in the Unity game engine. <br/>
+🤖 Mainly interested in new game engine technologies and 3D graphics, as well as combinatorial mathematics. My main speciality is OOP and development in the Unity game engine. <br/>
 
 #### :book: Currently learning:
 - OpenGL and the GLSL Language
