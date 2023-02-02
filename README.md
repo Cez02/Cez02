@@ -15,18 +15,20 @@
 
 #### 💻 Software Development Stack
 ![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white&style=for-the-badge)
-![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white&style=for-the-badge)
+![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white&style=for-the-badge)
 
-#### 💻 Web development Stack
+#### 📟 Web development Stack
 ![Express](https://img.shields.io/badge/-Express-000000?&logo=express&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=for-the-badge)
 
-#### 💻 Game Development Stack
+#### 🎮 Game Development Stack
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
