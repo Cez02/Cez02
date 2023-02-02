@@ -15,7 +15,7 @@
 
 #### 💻 Software Development Stack
 ![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=whit&style=for-the-badgee)
+![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white&style=for-the-badgee)
 ![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge)
