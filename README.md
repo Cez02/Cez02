@@ -14,13 +14,13 @@
 ### :hammer_and_wrench: Tech Stack
 
 #### 💻 Software Development Stack
-![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=whit&style=for-the-badgee)
+![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white&style=for-the-badge)
 
 #### 💻 Game Development Stack
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
