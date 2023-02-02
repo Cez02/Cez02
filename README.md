@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @Cez02, a CompSci student at the University of Wrocław <br/>
 👨‍💻 Indie game dev and software developer <br/>
-🤖 Mainly interested in new game engine technologies and 3D graphics, as well as combinatorial mathematics. My main speciality is OOP and development in the Unity game engine. <br/>
+🤖 Mainly interested in new game engine technologies and 3D graphics, as well as combinatorial mathematics. My main specialities are software and game development. <br/>
 
 #### :book: Currently learning:
 - OpenGL and the GLSL Language
@@ -15,12 +15,16 @@
 
 #### 💻 Software Development Stack
 ![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white&style=for-the-badgee)
+![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white&style=for-the-badge)
 ![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white&style=for-the-badge)
+
+#### 💻 Web development Stack
+![Express](https://img.shields.io/badge/-Express-000000?&logo=express&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white&style=for-the-badge)
 
 #### 💻 Game Development Stack
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
