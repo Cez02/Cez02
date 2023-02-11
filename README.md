@@ -7,7 +7,7 @@
 - OpenGL and the GLSL Language
 - Shaders in Unity and custom render pipelines
 - Python
-- New Unity technologies
+- Rust programming language
 
 
 
