@@ -6,7 +6,6 @@
 #### :book: Currently learning:
 - OpenGL and the GLSL Language
 - Shaders in Unity and custom render pipelines
-- Python
 - Rust programming language
 
 
