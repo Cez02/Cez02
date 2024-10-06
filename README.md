@@ -4,9 +4,8 @@
 🤖 Mainly interested in new game engine technologies and 3D graphics, as well as combinatorial mathematics. My main specialities are software and game development. <br/>
 
 #### :book: Currently learning:
-- OpenGL and the GLSL Language
-- Shaders in Unity and custom render pipelines
-- Rust programming language
+- Vulkan & mesh shaders
+- Shaders in Unity & custom render pipelines
 
 
 
